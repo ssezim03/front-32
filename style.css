@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+
+}
+.log-img{
+    margin: 50px 40px;
+}
+.log{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 300;
+    font-size: 11px;
+    color: #222222;
+    width: 40%;
+    margin: -90px 300px;
+
+}
+.btn button {
+
+    width: 36px;
+    height: 138px;
+    background: #39CDCC;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 6px 6px;
+    transition: .4s;
+    cursor: pointer;
+    border: none;
+    writing-mode:horizontal-tb;
+
+}
+
+.btn button:hover {
+    transform: scale(1.2);
+}
+
+.btn {
+    margin: 120px 0 0 -76px;
+    border: none;
+
+}
+.man{
+    margin: -150px 0 0 800px;
+}
+.text{
+    width: 306px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 55px;
+    color: #333333;
+    margin: -350px 0 0 150px;
+
+}
+.text-2{
+    width: 434px;
+    height: 70px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #333333;
+    margin: 20px 0 0 150px;
+
+}
+.play{
+    margin-left: 160px;
+}
+#hero{
+
+}
+.man-2{
+    margin: 250px 0 0 100px;
+}
+.text-3{
+    width: 392px;
+    height: 100px;
+    font-weight: 400;
+    font-size: 45px;
+    color: #333333;
+    margin: -300px 0 0 800px;
+}
+.text-4{
+    width: 310px;
+    height: 35px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #333333;
+    margin: 20px 0 0 800px;
+}
+.play-2{
+    margin: 50px 0 0 820px;
+}
+.log-end{
+    width: 291px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 45px;
+    text-align: center;
+    color: #333333;
+    margin: 150px 0 0 490px;
+
+}
+
+#section-2{
+    background: #31C5A1;
+    width: 100%;
+    height: 300px;
+}
+.section-2{
+
+}
+.section-2{
+    width: 555px;
+    height: 35px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 100px 0 0 380px;
+}
+.play-3{
+    margin: 30px 0 0 0;
+
+}
+.footer-log{
+    margin: 60px 0 0 40px;
+}
+.f-element{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin: -60px 0 20px 250px;
+
+}
+.footer-address{
+    width: 152px;
+    line-height: 30px;
+    height: 30px;
+    font-weight: 400;
+    font-size: 17px;
+    color: #333333;
+}
+.footer-contact{
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 17px;
+    color: #333333;
+}
+.footer-element{
+    width: 240px;
+    line-height: 30px;
+    height: 90px;
+    font-weight: 400;
+    font-size: 17px;
+    color: #333333;
+
+}
+.contact {
+    width: 158px;
+    height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+}
